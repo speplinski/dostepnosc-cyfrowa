@@ -1,9 +1,9 @@
-# Projektowanie inkluzywne (ang. Inclusive Design)
-Projektowanie inkluzywne (ang. Inclusive Design) oraz inkluzywny proces wytwórczy (ang. Inclusive Development) jest dla tych, którzy chcą tworzyć wspaniałe produkty dla jak największej liczby osób. Dostępność (ang. Accessibility) umożliwia dostęp do informacji, zaś inkluzywność (czyli brak wykluczenia) daje poczucie jakości podczas korzystaniu z określonego rozwiązania czy produktu.
+# Projektowanie inkluzywne (ang. *Inclusive Design*)
+Projektowanie inkluzywne (ang. *Inclusive Design*) oraz inkluzywny proces wytwórczy (ang. *Inclusive Development*) jest dla tych, którzy chcą tworzyć wspaniałe produkty dla jak największej liczby osób. Dostępność (ang. *Accessibility*) umożliwia dostęp do informacji, zaś inkluzywność (czyli brak wykluczenia) daje poczucie jakości podczas korzystaniu z określonego rozwiązania czy produktu.
 
 
 ## Więcej o podejściu inkluzywnym
-Przystosowanie do różnych poziomów testów inkluzywnych, które mają być używane przez Customer Journey Experts (CJE), projektantów UX/UI, redaktorów treści i programistów.
+Przystosowanie do różnych poziomów testów inkluzywnych, które mają być używane przez *Customer Journey Experts* (CJE), projektantów UX/UI, redaktorów treści i programistów.
 
 * [Podejście inkluzywne - podstawy](#podejście-inkluzywne---podstawy)
 * [Podejście inkluzywne - zaawansowane](#podejście-inkluzywne---zaawansowane)
